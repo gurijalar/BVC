@@ -1,0 +1,29 @@
+        body {
+            
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0a0b0a;
+            padding: 20px;
+            color: white;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+        }
+        .content {
+            padding: 30px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 5px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+   
